@@ -1,7 +1,7 @@
 {
-  "name": "esdk-obs-nodejs",
+  "name": "t-systems-obs-sdk",
   "version": "2.1.4",
-  "description": "esdk-obs-nodejs",
+  "description": "T-Systems (Telekom cloud) OBS SDK NPM mirror",
   "engines": {
     "node": ">=0.12.7"
   },
@@ -9,7 +9,6 @@
     "log4js": "^1.1.1",
     "xml2js": "^0.4.17"
   },
-  "main" : "lib/obs.js",
-  "devDependencies": {
-  }
+  "main": "lib/obs.js",
+  "devDependencies": {}
 }

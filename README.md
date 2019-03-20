@@ -1,6 +1,8 @@
-# Telecom Cloud OBS SDK
+# T-Systems (Telekom cloud) OBS SDK (NPM Mirror)
 
 OBS provides object storage service through simple web service interfaces and applies to Internet applications. The object storage service is accessed and operated using the REST APIs that support standard HTTP headers and status codes.
+
+![Logo](https://i.imgur.com/mkk5pDb.png)
 
 ## Documentation
 
@@ -9,7 +11,7 @@ Complete official documentation can be found [here](https://docs.otc.t-systems.c
 ## Installation
 
 ```
-yarn add telecom-obs
+yarn add t-systems-obs-sdk
 ```
 
 ## Usage
