@@ -2,6 +2,11 @@
   "name": "t-systems-obs-sdk",
   "version": "2.1.4",
   "description": "T-Systems (Telekom cloud) OBS SDK NPM mirror",
+  "homepage": "https://github.com/kunokdev/t-systems-obs-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kunokdev/t-systems-obs-sdk.git"
+  },
   "engines": {
     "node": ">=0.12.7"
   },
