@@ -20,7 +20,7 @@ yarn add t-systems-obs-sdk
 
 ```
 // Import the OBS library.
-var ObsClient = require('telecom-obs');
+var ObsClient = require('t-systems-obs-sdk');
 
 // Create an instance of ObsClient.
 var obsClient = new ObsClient({
