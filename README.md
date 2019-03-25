@@ -2,7 +2,7 @@
 
 OBS provides object storage service through simple web service interfaces and applies to Internet applications. The object storage service is accessed and operated using the REST APIs that support standard HTTP headers and status codes.
 
-![Logo](https://i.imgur.com/mkk5pDb.png)
+![Logo](https://avatars1.githubusercontent.com/u/19344672?s=200&v=4)
 
 ## Documentation
 
